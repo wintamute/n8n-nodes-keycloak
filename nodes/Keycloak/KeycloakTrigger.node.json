@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-keycloak",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Developer Tools"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.keycloak.org/docs/latest/authorization_services/index.html#_resource_server_create_client"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/p2-inc/keycloak-events"
+			}
+		]
+	}
+}
