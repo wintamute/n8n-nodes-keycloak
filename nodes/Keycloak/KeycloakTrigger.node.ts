@@ -57,12 +57,12 @@ const KEYCLOAK_EVENTS = [
 		name: 'Access.RefreshToken',
 		value: 'access.REFRESH_TOKEN',
 		description: 'An application/client has refreshed a token',
-	},,
+	},
 	{
 		name: 'Access.RefreshTokenError',
 		value: 'access.REFRESH_TOKEN_ERROR',
 		description: 'An error occurred while refreshing an application/client token',
-	}
+	},
 	{
 		name: 'Access.SocialLink',
 		value: 'access.SOCIAL_LINK',
@@ -92,7 +92,7 @@ const KEYCLOAK_EVENTS = [
 		name: 'Access.ResetPassword',
 		value: 'access.RESET_PASSWORD_ERROR',
 		description: 'An error occured while resetting password',
-	},,
+	},
 	{
 		name: 'Access.SendResetPassword',
 		value: 'access.SEND_RESET_PASSWORD',
@@ -102,7 +102,7 @@ const KEYCLOAK_EVENTS = [
 		name: 'Access.SendResetPassword',
 		value: 'access.SEND_RESET_PASSWORD_ERROR',
 		description: 'An error occured while sending password reset email',
-	}
+	},
 	{
 		name: 'Access.UpdatePassword',
 		value: 'access.UPDATE_PASSWORD',
