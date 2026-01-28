@@ -6,12 +6,12 @@ This is an n8n community node. It lets you use Keycloak events in your n8n workf
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
-[Prerequisites](#prerequisites)
+[Prerequisites](#prerequisites)  
 [Installation](#installation)  
 [Operations](#operations)  
-[Credentials](#credentials)
-[Compatibility](#compatibility)
-[Resources](#resources) 
+[Credentials](#credentials)  
+[Compatibility](#compatibility)  
+[Resources](#resources)  
 
 ## Prerequisites
 
